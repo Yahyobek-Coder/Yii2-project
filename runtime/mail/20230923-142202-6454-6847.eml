@@ -1,0 +1,50 @@
+From: My Application robot <support@example.com>
+To: yahyobek7316@gmail.com
+Subject: Account registration at My Application
+MIME-Version: 1.0
+Date: Sat, 23 Sep 2023 14:22:02 +0300
+Message-ID: <d8a4b64eb7397f55dc00cdafd75dc169@example.com>
+Content-Type: multipart/alternative; boundary=XPX5u9Fv
+
+--XPX5u9Fv
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Yahyobek,
+
+Follow the link below to verify your email:
+
+http:=
+//yii.loc/index-test.php/site/verify-email?token=3DSuwSQUmy7I9qKAGp3yilB0fI=
+nIJiezm5_1695468122
+--XPX5u9Fv
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello Yahyobek,</p>
+
+    <p>F=
+ollow the link below to verify your email:</p>
+
+    <p><a href=3D"http:=
+//yii.loc/index-test.php/site/verify-email?token=3DSuwSQUmy7I9qKAGp3yilB0fI=
+nIJiezm5_1695468122">http://yii.loc/index-test.php/site/verify-email?token=
+=3DSuwSQUmy7I9qKAGp3yilB0fInIJiezm5_1695468122</a></p>
+</div>
+    </bod=
+y>
+</html>
+
+--XPX5u9Fv--
